@@ -9,7 +9,7 @@ Built-in Objects and Methods:
 - Conditional Statements: If else
 
 Screenshot:
-- Screenshot.png
+- ![Screenshot](Screenshot.png)
 
 Reflection:
 - Easiest part was displaying the results on my website.

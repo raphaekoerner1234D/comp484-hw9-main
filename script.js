@@ -89,3 +89,11 @@ if (newCalculationAddition > 20000) {
 }
 
 document.getElementById("mathOutput").innerHTML = document.getElementById("mathOutput").innerHTML + "<br>" + messageCalculation;
+
+// ==========================
+// Extra Credit: Option 3
+// ==========================
+
+let passFail = Number.isNaN(valueThree) ? "Fail" : "Pass";
+
+document.getElementById("numberConversionOutput").innerHTML = document.getElementById("numberConversionOutput").innerHTML + "<br>" + passFail;
